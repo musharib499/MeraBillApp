@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MeraBillApp</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="add">Add</string>
+    <string name="payment_added">Payment Added</string>
+    <string name="invalid_amount">Invalid Amount</string>
+    <string name="cancel">Cancel</string>
+    <string name="total_amount">Total ₹%s</string>
+    <string name="payment_info">%1$s: ₹%2$.2f</string>
+    <string name="save">Save</string>
+    <string name="enter_provider_name">Enter Provider Name</string>
+    <string name="enter_transaction_reference">Enter Transaction Reference</string>
+    <string-array name="payment_types">
+        <item>Cash</item>
+        <item>Bank Transfer</item>
+        <item>Credit Card</item>
+    </string-array>
+
+</resources>
